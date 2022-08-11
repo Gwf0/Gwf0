@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I am fond of creating new interesting mechanics and am inspired by other major AAA projects.
 
-- :mailbox: How to reach me: [![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=mail&logoColor=white)](lins_studio@mail.ru)
+- :mailbox: How to reach me: [![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=mail&logoColor=white)](https://lins_studio@mail.ru)
 
 ---
 
